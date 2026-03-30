@@ -1,0 +1,5 @@
+export { VaultHeader } from './VaultHeader'
+export { USDCBalance } from './USDCBalance'
+export { DepositSection } from './DepositSection'
+export { AllocationSection } from './AllocationSection'
+export { ConfirmationDialog } from './ConfirmationDialog'
