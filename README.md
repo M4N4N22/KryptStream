@@ -1,4 +1,4 @@
-# Krypstream (Kryptstream)
+# Krypstream
 
 **Version:** 0.1 (Wave 1)  
 **Chain:** Base Sepolia  
